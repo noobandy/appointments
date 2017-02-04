@@ -54,7 +54,7 @@ public class Appointment {
 	public void setTime(Date time) {
 		this.time = time;
 	}
-	
+	  
 	public User getCreatedBy() {
 		return createdBy;
 	}
